@@ -1,4 +1,4 @@
-# Hi there, I'm Idromerom714 👋
+# Hi there, I'm Iván 👋
 
 *English | [Español](README.es.md)*
 
@@ -32,11 +32,6 @@ Web dashboard for visualizations and analysis of coffee rust disease in coffee c
 Implementation of a parking management system with client and server interfaces
 - **Tech Stack:** HTML, JavaScript
 - **Focus:** Client-server architecture, system management
-
-### 📈 [Data Visualization Projects](https://github.com/Idromerom714/Visualizaci-n-de-datos)
-Collection of data visualization projects and techniques
-- **Tech Stack:** Python
-- **Focus:** Data analysis, visual storytelling
 
 ### 📊 [Statistics Dashboard](https://github.com/Idromerom714/Dashboard-estad-stica)
 Dashboard for field work in Statistics course at ITM
