@@ -30,7 +30,7 @@ Dashboard web para visualizaciones y análisis de la roya en los cultivos de caf
 
 ### 🅿️ [Sistema de Parqueadero](https://github.com/Idromerom714/parqueadero_)
 Implementación de un sistema de gestión de parqueadero con interfaces de cliente y servidor
-- **Stack Tecnológico:** HTML, JavaScript
+- **Stack Tecnológico:** HTML, Pythn, C++
 - **Enfoque:** Arquitectura cliente-servidor, gestión de sistemas
 
 ### 📊 [Dashboard de Estadística](https://github.com/Idromerom714/Dashboard-estad-stica)
