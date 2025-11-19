@@ -1,6 +1,6 @@
 # Hola, soy Iván 👋
 
-*[English](README.md) | Español*
+*Español |[English](README.en.md)*
 
 ## Sobre Mí
 
