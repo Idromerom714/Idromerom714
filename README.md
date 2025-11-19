@@ -12,7 +12,7 @@ I'm a developer with a passion for data science, visualization, and software dev
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-**Languages:** Python, C++, HTML, CSS, JavaScript
+**Languages:** Python, C++, Git
 
 **Areas of Expertise:**
 - Data Visualization & Analytics
