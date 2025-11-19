@@ -1,5 +1,7 @@
 # Hi there, I'm Idromerom714 👋
 
+*English | [Español](README.es.md)*
+
 ## About Me
 
 I'm a developer with a passion for data science, visualization, and software development. I enjoy working on projects that combine analytical thinking with practical software solutions.
