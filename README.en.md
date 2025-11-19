@@ -30,7 +30,7 @@ Web dashboard for visualizations and analysis of coffee rust disease in coffee c
 
 ### 🅿️ [Parking System](https://github.com/Idromerom714/parqueadero_)
 Implementation of a parking management system with client and server interfaces
-- **Tech Stack:** HTML, JavaScript
+- **Tech Stack:** HTML, Python, C++
 - **Focus:** Client-server architecture, system management
 
 ### 📊 [Statistics Dashboard](https://github.com/Idromerom714/Dashboard-estad-stica)
