@@ -12,7 +12,7 @@ Soy un desarrollador apasionado por la ciencia de datos, la visualización y el 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-**Lenguajes:** Python, C++, HTML, CSS, JavaScript
+**Lenguajes:** Python, C++, Git
 
 **Áreas de Experiencia:**
 - Visualización y Análisis de Datos
@@ -32,11 +32,6 @@ Dashboard web para visualizaciones y análisis de la roya en los cultivos de caf
 Implementación de un sistema de gestión de parqueadero con interfaces de cliente y servidor
 - **Stack Tecnológico:** HTML, JavaScript
 - **Enfoque:** Arquitectura cliente-servidor, gestión de sistemas
-
-### 📈 [Proyectos de Visualización de Datos](https://github.com/Idromerom714/Visualizaci-n-de-datos)
-Colección de proyectos y técnicas de visualización de datos
-- **Stack Tecnológico:** Python
-- **Enfoque:** Análisis de datos, narrativa visual
 
 ### 📊 [Dashboard de Estadística](https://github.com/Idromerom714/Dashboard-estad-stica)
 Dashboard para trabajo de campo en el curso de Estadística en ITM
