@@ -33,15 +33,10 @@ Implementación de un sistema de gestión de parqueadero con interfaces de clien
 - **Stack Tecnológico:** HTML, Pythn, C++
 - **Enfoque:** Arquitectura cliente-servidor, gestión de sistemas
 
-### 📊 [Dashboard de Estadística](https://github.com/Idromerom714/Dashboard-estad-stica)
-Dashboard para trabajo de campo en el curso de Estadística en ITM
+### 📝 [Tutor ICFES](https://github.com/Idromerom714/Tutor-ICFES)
+Aplicación de tutoría para preparación al examen ICFES
 - **Stack Tecnológico:** Python
-- **Enfoque:** Análisis estadístico, herramientas educativas
-
-### 🎓 [Estructura de Datos 2025](https://github.com/Idromerom714/Estructura-de-datos-2025)
-Materiales del curso e implementaciones de estructuras de datos
-- **Stack Tecnológico:** C++
-- **Enfoque:** Algoritmos, estructuras de datos, proyectos académicos
+- **Enfoque:** Educación, preparación de exámenes, herramientas de aprendizaje
 
 ## 🌱 Actualmente Aprendiendo
 
