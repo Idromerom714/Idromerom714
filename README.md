@@ -34,12 +34,14 @@ Implementación de un sistema de gestión de parqueadero con interfaces de clien
 - **Enfoque:** Arquitectura cliente-servidor, gestión de sistemas
 
 ### 📝 [Tutor ICFES](https://github.com/Idromerom714/Tutor-ICFES)
-Aplicación de tutoría para preparación al examen ICFES
+Aplicación de tutoría para preparación al examen ICFES,impulsado por LLMs y generacion aumentada por recuperación (RAG).
 - **Stack Tecnológico:** Python
 - **Enfoque:** Educación, preparación de exámenes, herramientas de aprendizaje
 
 ## 🌱 Actualmente Aprendiendo
 
+- Machine learning
+- Modelos grandes de lenguaje (LLMs)
 - Técnicas avanzadas de visualización de datos
 - Desarrollo de aplicaciones web
 - Modelado y análisis estadístico

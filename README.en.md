@@ -34,12 +34,13 @@ Implementation of a parking management system with client and server interfaces
 - **Focus:** Client-server architecture, system management
 
 ### 📝 [ICFES Tutor](https://github.com/Idromerom714/Tutor-ICFES)
-Tutoring application for ICFES exam preparation
+Tutoring application for ICFES exam preparation, powered by LLMs and Retrieval-Augmented Generation (RAG)
 - **Tech Stack:** Python
 - **Focus:** Education, exam preparation, learning tools
 
 ## 🌱 Currently Learning
-
+- Machine learning
+- Large Language Models
 - Advanced data visualization techniques
 - Web application development
 - Statistical modeling and analysis
