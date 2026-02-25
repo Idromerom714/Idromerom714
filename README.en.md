@@ -33,15 +33,10 @@ Implementation of a parking management system with client and server interfaces
 - **Tech Stack:** HTML, Python, C++
 - **Focus:** Client-server architecture, system management
 
-### 📊 [Statistics Dashboard](https://github.com/Idromerom714/Dashboard-estad-stica)
-Dashboard for field work in Statistics course at ITM
+### 📝 [ICFES Tutor](https://github.com/Idromerom714/Tutor-ICFES)
+Tutoring application for ICFES exam preparation
 - **Tech Stack:** Python
-- **Focus:** Statistical analysis, educational tools
-
-### 🎓 [Data Structures 2025](https://github.com/Idromerom714/Estructura-de-datos-2025)
-Course materials and implementations for data structures
-- **Tech Stack:** C++
-- **Focus:** Algorithms, data structures, academic projects
+- **Focus:** Education, exam preparation, learning tools
 
 ## 🌱 Currently Learning
 
