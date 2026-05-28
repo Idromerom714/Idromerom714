@@ -23,20 +23,20 @@ Soy un desarrollador apasionado por la ciencia de datos, la visualización y el 
 
 ## 📊 Proyectos Destacados
 
-### 🌿 [Dashboard de Visualización de Roya del Café](https://github.com/Idromerom714/Visualiaciones_roya_cafe)
-Dashboard web para visualizaciones y análisis de la roya en los cultivos de café
-- **Stack Tecnológico:** Python
-- **Enfoque:** Visualización de datos agrícolas, análisis de enfermedades
-
-### 🅿️ [Sistema de Parqueadero](https://github.com/Idromerom714/parqueadero_)
-Implementación de un sistema de gestión de parqueadero con interfaces de cliente y servidor
-- **Stack Tecnológico:** HTML, Pythn, C++
-- **Enfoque:** Arquitectura cliente-servidor, gestión de sistemas
-
 ### 📝 [Tutor ICFES](https://github.com/Idromerom714/Tutor-ICFES)
 Aplicación de tutoría para preparación al examen ICFES, impulsada por LLMs y Generación aumentada por recuperación (RAG)
 - **Stack Tecnológico:** Python
 - **Enfoque:** Educación, preparación de exámenes, herramientas de aprendizaje
+
+### 🌿 [Dashboard de Visualización de Roya del Café](https://github.com/Idromerom714/Visualiaciones_roya_cafe)
+Dashboard web para visualizaciones y análisis de la roya en los cultivos de café
+- **Stack Tecnológico:** Python, Streamlit, análisis de datos
+- **Enfoque:** Visualización de datos agrícolas, seguimiento de enfermedades y apoyo a la toma de decisiones
+
+### 🎨 [Cuantizador de Colores](https://github.com/Idromerom714/reducci-n_de_colores)
+Aplicación web para reducir la cantidad de colores de una imagen mediante cuantización por clustering
+- **Stack Tecnológico:** Python, Streamlit, scikit-learn, NumPy
+- **Enfoque:** Procesamiento de imágenes, cuantización de color y experimentación visual
 
 ## 🌱 Actualmente Aprendiendo
 

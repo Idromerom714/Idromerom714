@@ -23,20 +23,20 @@ I'm a developer with a passion for data science, visualization, and software dev
 
 ## 📊 Featured Projects
 
-### 🌿 [Coffee Rust Visualization Dashboard](https://github.com/Idromerom714/Visualiaciones_roya_cafe)
-Web dashboard for visualizations and analysis of coffee rust disease in coffee crops
-- **Tech Stack:** Python
-- **Focus:** Agricultural data visualization, disease analysis
-
-### 🅿️ [Parking System](https://github.com/Idromerom714/parqueadero_)
-Implementation of a parking management system with client and server interfaces
-- **Tech Stack:** HTML, Python, C++
-- **Focus:** Client-server architecture, system management
-
 ### 📝 [ICFES Tutor](https://github.com/Idromerom714/Tutor-ICFES)
 Tutoring application for ICFES exam preparation, powered by LLMs and Retrieval-Augmented generation (RAG)
 - **Tech Stack:** Python
 - **Focus:** Education, exam preparation, learning tools
+
+### 🌿 [Coffee Rust Visualization Dashboard](https://github.com/Idromerom714/Visualiaciones_roya_cafe)
+Web dashboard for visualizations and analysis of coffee rust disease in coffee crops
+- **Tech Stack:** Python, Streamlit, data analysis
+- **Focus:** Agricultural data visualization, disease monitoring, and decision support
+
+### 🎨 [Color Quantizer](https://github.com/Idromerom714/reducci-n_de_colores)
+Web application to reduce the number of colors in an image through clustering-based quantization
+- **Tech Stack:** Python, Streamlit, scikit-learn, NumPy
+- **Focus:** Image processing, color quantization, and visual experimentation
 
 ## 🌱 Currently Learning
 - Large Language Models
